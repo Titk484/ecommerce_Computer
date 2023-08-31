@@ -1,0 +1,10 @@
+# RewriteEngine On
+
+# RewriteRule "index" "index.php"
+# RewriteRule "topbrands" "topbrands.php"
+# RewriteRule "profile" "profile.php"
+# RewriteRule "history_order" "history_order.php"
+# RewriteRule "contact" "contact.php"
+# RewriteRule "login" "login.php"
+
+# RewriteRule "^san-pham/([0-9]+)/([a-zA-Z0-9-]+)$" "details.php?proid=$1&tensp=$2"

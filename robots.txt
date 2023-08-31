@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Allow: sitemap_index.xml
+Allow: sitemap_index.html
+
+Sitemap: https://winx-store.000webhostapp.com/sitemap_index.xml
